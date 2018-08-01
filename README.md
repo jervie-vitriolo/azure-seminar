@@ -11,6 +11,7 @@
     * Face API https://aka.ms/azureface
     * Custom Vision API https://azure.microsoft.com/en-us/services/cognitive-services/custom-vision-service/
     * Customvision.ai https://www.customvision.ai
+      * Hotdog, Not Hotdog App repo https://github.com/praeclarum/HotDogOrNot
     
 * Presentation slides https://1drv.ms/p/s!AtjfvRLBplyi4AEtZIhxtEFIMEGq
 
