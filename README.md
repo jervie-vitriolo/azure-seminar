@@ -5,7 +5,7 @@
 * Azure App Service https://aka.ms/appsvc
 * Mobile Development with Xamarin https://www.visualstudio.com/vs/mobile-app-development/
 * Databases https://aka.ms/azuresql 
-* Azure Cognitive Services https://aka.ms/azurecognitive
+* Azure Cognitive Services https://azure.microsoft.com/en-us/services/cognitive-services/
     * Computer Vision API https://aka.ms/azurevision
     * Emotion API https://aka.ms/emotionapi
     * Face API https://aka.ms/azureface
